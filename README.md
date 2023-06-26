@@ -8,6 +8,7 @@
 
 <h2>Screenshots</h2>
 - Home GUI: 
+- ![ScreenShot] (https://raw.github.com/21ahmdhakimi/flower_classification/blob/main/gui.png)
 - Input GUI: 
 - Output GUI: 
 <br/>
